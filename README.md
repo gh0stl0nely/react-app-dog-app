@@ -4,7 +4,7 @@ A simple web application that utilizes Dog API to search for dog breeds.
 
 ## Demo
 
-Test the app -> [Demo](https://gh0stl0nely-note-taker-app.glitch.me/)
+Test the app -> [Demo](https://react-dog-app-x.herokuapp.com/)
 
 ## Built With
 
