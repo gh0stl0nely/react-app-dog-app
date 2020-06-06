@@ -8,12 +8,12 @@ function NavBar() {
     return (
     <Router>
       <div>
-        <nav class="nav">
-            <Link to="/" className="nav-link active">About
+        <nav className="nav">
+            <Link to="/" className="nav-link active">About Us
             </Link>  
-            <Link to="/discover" className="nav-link">Discover
+            <Link to="/discover" className="nav-link">Discover Dogs
             </Link>  
-            <Link to="/search" className="nav-link">Search
+            <Link to="/search" className="nav-link">Search Dogs
             </Link>  
         </nav>
         <Switch>
